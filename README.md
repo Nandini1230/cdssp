@@ -1,6 +1,6 @@
 # cdssp
-1a.
-%{
+###1a.
+###%{
 #include<stdio.h>
 int c=0;
 int w=0;
